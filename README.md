@@ -6,7 +6,7 @@ Esta é uma aplicação Node.js que gerencia livros e usuários, com autenticaç
 
 1. Clone o repositório:
    ```sh
-   git clone <URL_DO_REPOSITORIO>
+   git clone https://github.com/O-Farias/manager-app
    ```
 2. Navegue até o diretório do projeto:
    ```sh
